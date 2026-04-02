@@ -1,0 +1,8 @@
+{
+  "name": "MUSD",
+  "symbol": "MUSD",
+  "description": "MUSD ON SOLANA",
+  "image": "https://raw.githubusercontent.com/qq3111910349-ctrl/MUSD/refs/heads/main/logo.png",
+  "decimals": 9,
+  "attributes": []
+}
